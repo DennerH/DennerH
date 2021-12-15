@@ -10,7 +10,7 @@ Me chamo Denner Henrique, sou Desenvolvedor Web.
   <div>
    <a href="https://www.linkedin.com/in/dennerhcrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://api.whatsapp.com/send?phone=5511942950241" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-     <a href="https://instagram.com/dede_hc" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white&color=8742b7" target="_blank"></a></div>
+     <a href="https://www.instagram.com/dede_hc/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white&color=8742b7" target="_blank"></a></div>
     
 ## Habilidades
 
