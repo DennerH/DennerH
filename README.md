@@ -13,3 +13,27 @@ Me chamo Denner Henrique, sou Desenvolvedor Web.
      <a href="https://instagram.com/dede_hc" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white&color=8742b7" target="_blank"></a></div>
     
 ## Habilidades
+
+   ### Front-end
+
+<div>
+  <img title="HTML5" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
+  <img title="CSS3" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
+  <img title="JavaScript" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+ <img title="Bootstrap" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+</div><hr>
+   
+   ### Banco de dados
+    
+<div>
+  <img title="MySQL" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+ </div><hr>
+   
+   ### Outras
+    
+<div>
+ <img title="Git" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"/>
+  <img title="GitHub" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>
+  <img title="Bash" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"/>
+  <img title="Servidores Linux" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+</div>
