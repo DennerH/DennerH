@@ -1,5 +1,5 @@
 # Olá, seja bem vindo ao meu perfil!
-Me chamo Denner Henrique, sou Desenvolvedor Web.
+Meu nome é Denner Henrique, sou Desenvolvedor Web na Connection Comunicação. Aqui vão algumas curiosidades sobre mim:
 
 <div>
  <a href="https://github.com/DennerH">
