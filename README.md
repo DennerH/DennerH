@@ -23,10 +23,11 @@ Meu nome é Denner Henrique, sou Desenvolvedor Web na Connection Comunicação. 
  <img title="Bootstrap" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
 </div><hr>
    
-   ### Banco de dados
+   ### DataBase
     
 <div>
   <img title="MySQL" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img title="Postgresql" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
  </div><hr>
    
    ### Outras
